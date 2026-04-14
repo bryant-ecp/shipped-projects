@@ -12,6 +12,8 @@ Bryant Nankee's personal shipping log — tools, builds, videos, prototypes, and
 | 4 | [ECP Website Audit](#ecp-website-audit) | Repo / System | 2026-04-06 | ECP123.com full audit and remediation tracking — issues, priority queue, fixes log | [repo](https://github.com/bryant-ecp/ecp-website-audit) | — |
 | 5 | [Codex — Almir Testimonial](#codex--almir-testimonial) | Video | 2026-04 | Remotion-based testimonial video editor — auto-transcription, branded cuts for Almir Sajtovic (Cedarhurst Senior Living) | — | — |
 | 6 | [Ad Landing Pages](#ad-landing-pages) | Prototype | 2024-08-09 | Ad-specific landing pages for ECP paid campaigns | [repo](https://github.com/bryant-ecp/ad-landing-pages) | — |
+| 7 | [ECP Website Refresh Prototype](#ecp-website-refresh-prototype) | Prototype | 2026-04 | Live prototype library for stakeholder review and design direction on the new ecp123.com | — | [ecp-homepage-mockup.vercel.app](https://ecp-homepage-mockup.vercel.app/prototype.html) |
+| 8 | [ECP Paid Media Optimization](#ecp-paid-media-optimization) | Repo / System | 2026-04-14 | Internal audit and optimization tracking for ECP's $1M+ paid media program | [repo](https://github.com/bryant-ecp/ecp-paid-media-optimization) | — |
 
 ---
 
@@ -76,6 +78,26 @@ Remotion-based video production system for branded testimonial cuts. Built a com
 **GitHub:** https://github.com/bryant-ecp/ad-landing-pages
 
 Ad-specific landing pages for ECP paid media campaigns. Built outside the main CMS to allow rapid iteration on CRO experiments without dev dependencies.
+
+---
+
+### ECP Website Refresh Prototype
+
+**Shipped:** 2026-04
+**Category:** Prototype
+**Live:** https://ecp-homepage-mockup.vercel.app/prototype.html
+
+A live prototype library for ECP's website refresh — visual reference and component exploration for the new ecp123.com direction. Deployed on Vercel. Shareable for stakeholder review and design alignment before committing to development.
+
+---
+
+### ECP Paid Media Optimization
+
+**Shipped:** 2026-04-14
+**Category:** Repo / System
+**GitHub:** https://github.com/bryant-ecp/ecp-paid-media-optimization
+
+Internal working repo for ongoing audit and optimization of ECP's paid ad channels. Contains READMEs, a Google Ads audit, and optimization tracking. Centralizes paid media analysis and channel-level findings as a living audit trail for the $1M+ annual paid media program.
 
 ---
 
