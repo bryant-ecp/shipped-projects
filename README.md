@@ -14,6 +14,8 @@ Bryant Nankee's personal shipping log — tools, builds, videos, prototypes, and
 | 6 | [Ad Landing Pages](#ad-landing-pages) | Prototype | 2024-08-09 | Ad-specific landing pages for ECP paid campaigns | [repo](https://github.com/bryant-ecp/ad-landing-pages) | — |
 | 7 | [ECP Website Refresh Prototype](#ecp-website-refresh-prototype) | Prototype | 2026-04 | Live prototype library for stakeholder review and design direction on the new ecp123.com | — | [ecp-homepage-mockup.vercel.app](https://ecp-homepage-mockup.vercel.app/prototype.html) |
 | 8 | [ECP Paid Media Optimization](#ecp-paid-media-optimization) | Repo / System | 2026-04-14 | Internal audit and optimization tracking for ECP's $1M+ paid media program | [repo](https://github.com/bryant-ecp/ecp-paid-media-optimization) | — |
+| 9 | [ECP Promo Video](#ecp-promo-video) | Video | 2026-04 | Top-of-funnel brand and product awareness video built with Remotion | — | [Drive](https://drive.google.com/drive/folders/1XU9UUWUEiV4azuJ_zZfJOBpSyOBchrqL?usp=sharing) |
+| 10 | [Navion Case Study Video](#navion-case-study-video) | Video | 2026-04 | Customer case study video featuring Navion Senior Solutions — mid/bottom funnel social proof | — | [Drive](https://drive.google.com/drive/folders/1XU9UUWUEiV4azuJ_zZfJOBpSyOBchrqL?usp=sharing) |
 
 ---
 
@@ -98,6 +100,26 @@ A live prototype library for ECP's website refresh — visual reference and comp
 **GitHub:** https://github.com/bryant-ecp/ecp-paid-media-optimization
 
 Internal working repo for ongoing audit and optimization of ECP's paid ad channels. Contains READMEs, a Google Ads audit, and optimization tracking. Centralizes paid media analysis and channel-level findings as a living audit trail for the $1M+ annual paid media program.
+
+---
+
+### ECP Promo Video
+
+**Shipped:** 2026-04
+**Category:** Video
+**Live:** https://drive.google.com/drive/folders/1XU9UUWUEiV4azuJ_zZfJOBpSyOBchrqL?usp=sharing
+
+Branded ECP promo video built with Remotion. Top-of-funnel brand and product awareness asset. Built programmatically — designed to be iterated on rather than rebuilt from scratch.
+
+---
+
+### Navion Case Study Video
+
+**Shipped:** 2026-04
+**Category:** Video
+**Live:** https://drive.google.com/drive/folders/1XU9UUWUEiV4azuJ_zZfJOBpSyOBchrqL?usp=sharing
+
+Customer case study video featuring Navion Senior Solutions, built with Remotion. Mid-to-bottom funnel social proof asset supporting sales conversations and paid/organic distribution.
 
 ---
 
